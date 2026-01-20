@@ -35,5 +35,5 @@ By working on practical projects and real datasets, I aim to understand not just
 
 ### 📫 Connect with Me
 
-* **Email:** msatyam376@gmail.com
-* **Location:** Jaipur, Rajasthan 302017
+* **Email:** bansalgungun1715@gmail.com
+* **Location:** Jaipur, Rajasthan 

@@ -1,10 +1,10 @@
 ## Hi there 👋
  
-### 👨‍🏫 Data Science Trainer | Technical Educator | Developer
+### 👨‍🏫 Data Science Trainee | Aspiring Data Professional
 
-I am a Data Science professional and Educator based in **Jaipur, Rajasthan**, with a passion for bridging the gap between theoretical concepts and real-world software development.
+I am a Data Science Trainee based in Jaipur, Rajasthan, with a strong foundation in Python and data analysis. I am passionate about transforming raw data into meaningful insights and continuously improving my analytical and technical skills through hands-on projects
 
-Currently, I am a **Data Science Trainer at Ambuja Foundation**, where I train students in Python, SQL, and Machine Learning, helping them transition from learners to industry-ready professionals. My goal is to work with progressive educational institutions to teach, learn, and experiment with new software technologies.
+I am actively learning and applying concepts of Data Science, Data Analysis, and Machine Learning, with a focus on solving real-world problems using structured and unstructured data. My goal is to grow into an industry-ready Data Scientist by combining strong fundamentals with practical implementation..
 
 ---
 
@@ -19,19 +19,17 @@ Currently, I am a **Data Science Trainer at Ambuja Foundation**, where I train s
 
 ### 🔭 Current Projects
 
-* **Student Information Management System:**
+* **Student Management System:**
     * *Description:* A Python-based application designed to store, retrieve, and manage student records efficiently.
     * *Focus:* Implementing Object-Oriented Programming (OOP) pillars, File Handling, and Error Management.
     * *Goal:* Using this as a live teaching tool to demonstrate the Software Development Lifecycle (SDLC).
-
-* **Revenue Analysis (Adidas vs. Nike):**
-    * *Description:* A data analysis project comparing two retail giants to identify revenue drivers using Python libraries.
 
 ---
 
 ### 🚀 Teaching Philosophy
 
-I believe in **"Learning by Building."** whether it is analyzing unicorn startups or building management software, I ensure my students understand the *why* behind the code. I am constantly exploring new ways to integrate software development into academic curriculums.
+I believe in **"Learning by Building."**
+By working on practical projects and real datasets, I aim to understand not just how things work, but why they work. I am continuously upgrading my skills in Data Science, Machine Learning, and visualization tools to become a competent data professional.
 
 ---
 

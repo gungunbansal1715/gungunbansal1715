@@ -26,12 +26,7 @@ I am actively learning and applying concepts of Data Science, Data Analysis, and
 
 ---
 
-### 🚀 Teaching Philosophy
 
-I believe in **"Learning by Building."**
-By working on practical projects and real datasets, I aim to understand not just how things work, but why they work. I am continuously upgrading my skills in Data Science, Machine Learning, and visualization tools to become a competent data professional.
-
----
 
 ### 📫 Connect with Me
 
